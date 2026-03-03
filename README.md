@@ -84,11 +84,4 @@
 
 <br/>
 
----
-
-<h2>📊 GitHub Stats</h2>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=qasimkhan080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimkhan080&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
